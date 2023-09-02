@@ -40,5 +40,6 @@ div{
 @media screen and (max-width: 850px) {
     body {
         width: 100%;
+        font-size: 20px;
     }
 }
