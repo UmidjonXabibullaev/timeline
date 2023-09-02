@@ -41,6 +41,9 @@ div{
     body {
         width: 100%;
         font-size: 20px;
+      
+    }
+    div{
         border: 5px solid black;
         border-radius: 0;
     }
